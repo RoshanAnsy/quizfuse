@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/quizfuse/static/css/main.155c54e5.css",
+    "main.js": "/quizfuse/static/js/main.46f110ac.js",
+    "static/js/703.88ecc403.chunk.js": "/quizfuse/static/js/703.88ecc403.chunk.js",
+    "static/js/198.39cab72b.chunk.js": "/quizfuse/static/js/198.39cab72b.chunk.js",
+    "static/media/roshan.jpg": "/quizfuse/static/media/roshan.36147e73161a9739de30.jpg",
+    "static/media/signup.png": "/quizfuse/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/tanisha.jpg": "/quizfuse/static/media/tanisha.aadb605e4e562dc57eef.jpg",
+    "static/media/login.png": "/quizfuse/static/media/login.4d877a447365e5137b67.png",
+    "static/media/template2.jpg": "/quizfuse/static/media/template2.0bbdce5cc7357154da4d.jpg",
+    "static/media/QuizFuse-removebg.png": "/quizfuse/static/media/QuizFuse-removebg.5e1b1b40e5f7333ac763.png",
+    "static/media/logo.png": "/quizfuse/static/media/logo.8b3cef438ad31a32be92.png",
+    "static/media/nishant.jpg": "/quizfuse/static/media/nishant.9ee6417625f53fc717f5.jpg",
+    "static/media/template3.jpg": "/quizfuse/static/media/template3.8fa8b50d4076eec99030.jpg",
+    "static/media/abc.png": "/quizfuse/static/media/abc.53193f59645c9fd40d0c.png",
+    "static/media/frame.png": "/quizfuse/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/pic.jpeg": "/quizfuse/static/media/pic.c6587a4950c522cdafec.jpeg",
+    "index.html": "/quizfuse/index.html",
+    "main.155c54e5.css.map": "/quizfuse/static/css/main.155c54e5.css.map",
+    "main.46f110ac.js.map": "/quizfuse/static/js/main.46f110ac.js.map",
+    "703.88ecc403.chunk.js.map": "/quizfuse/static/js/703.88ecc403.chunk.js.map",
+    "198.39cab72b.chunk.js.map": "/quizfuse/static/js/198.39cab72b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.155c54e5.css",
+    "static/js/main.46f110ac.js"
+  ]
+}
